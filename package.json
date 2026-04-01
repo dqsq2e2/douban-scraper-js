@@ -1,0 +1,17 @@
+{
+  "name": "douban-scraper-js",
+  "version": "1.0.0",
+  "description": "豆瓣图书刮削插件 (JavaScript 版本)",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "douban",
+    "scraper",
+    "book",
+    "ting-reader"
+  ],
+  "author": "Trae",
+  "license": "MIT"
+}

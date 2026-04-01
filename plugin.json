@@ -1,0 +1,14 @@
+{
+  "id": "douban-scraper-js",
+  "name": "douban scraper",
+  "version": "1.0.0",
+  "plugin_type": "scraper",
+  "author": "Ting Reader Team",
+  "description": "豆瓣图书刮削插件",
+  "runtime": "javascript",
+  "entry_point": "plugin.js",
+  "permissions": [
+    { "type": "network_access", "value": "*.douban.com" },
+    { "type": "network_access", "value": "*.doubanio.com" }
+  ]
+}
