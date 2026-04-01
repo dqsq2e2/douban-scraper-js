@@ -7,6 +7,9 @@
   "description": "豆瓣图书刮削插件",
   "runtime": "javascript",
   "entry_point": "plugin.js",
+  "homepage": "https://github.com/dqsq2e2/douban-scraper-js",
+  "license": "MIT",
+  "dependencies": [],
   "permissions": [
     { "type": "network_access", "value": "*.douban.com" },
     { "type": "network_access", "value": "*.doubanio.com" }
