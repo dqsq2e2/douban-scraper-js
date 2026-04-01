@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "plugin_type": "scraper",
   "author": "Ting Reader Team",
-  "description": "豆瓣图书刮削插件",
+  "description": "基于 JavaScript 运行时的轻量级刮削插件。支持从豆瓣读书获取书籍的详细元数据，包括标题、简介、封面、作者信息及标签。",
   "runtime": "javascript",
   "entry_point": "plugin.js",
   "homepage": "https://github.com/dqsq2e2/douban-scraper-js",
